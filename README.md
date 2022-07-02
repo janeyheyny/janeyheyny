@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janeyheyny
 - 👀 I’m interested in design, art and coding
-- 🌱 I’m currently completing a course in web design and dev
+- 🌱 I work as a web developer for FONK in Cape Town, South Africa
 - 📫 Reach me at heynjane@gmail.com
 
 <!---
